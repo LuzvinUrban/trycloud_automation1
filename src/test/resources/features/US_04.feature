@@ -1,4 +1,4 @@
-@wip
+
 Feature: As a user, I should be able to access to Files module.
 
   Scenario Outline: verify users can access to Files module
