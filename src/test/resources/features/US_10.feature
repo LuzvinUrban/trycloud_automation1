@@ -12,7 +12,7 @@ Feature: As a user, I should be able to update settings.
     Then the user should be able to click any buttons
 
 
-  @wip
+
   Scenario: Verify users to see the app storage usage
     And user checks the current storage usage
     And user  uploads file with the upload file option
